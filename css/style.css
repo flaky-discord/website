@@ -1,5 +1,6 @@
 body {
     font-size: 14px;
+    background-color: #DDDAD7;
 }
 
 .introduction {
@@ -22,6 +23,9 @@ body {
     margin: 1rem;
     margin-left: auto;
     margin-right: auto;
+
+    color: black;
+    background-color: white;
 
     border: 1px solid;
     box-shadow: 10px 10px;
